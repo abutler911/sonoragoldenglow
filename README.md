@@ -1,6 +1,6 @@
 # Activated Liquid Collagen Landing Page
 
-Welcome to the repository of the PH Wellness Activated Liquid Collagen landing page. This project is the result of a focused and user-oriented effort to build a functional and attractive landing page for a small business. The purpose of the landing page is to effectively and efficiently direct potential customers to the main company webpage.
+Welcome to the repository of the Sonora Golden Glow Activated Liquid Collagen landing page. This project is the result of a focused and user-oriented effort to build a functional and attractive landing page for a small business. The purpose of the landing page is to effectively and efficiently direct potential customers to the main company webpage.
 
 The landing page uses straightforward and robust technologies including HTML, CSS, and Bootstrap to ensure maximum compatibility and responsive design across various devices and browsers.
 
